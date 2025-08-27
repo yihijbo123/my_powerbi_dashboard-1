@@ -1,7 +1,11 @@
+Situation: The UNSW Student Accommodation team faced significant challenges in managing the application process:
+1. High application volume – without a centralized monitoring platform, staff could not efficiently track and process thousands of student applications.
+2. Complex applicant categories – it was difficult to properly allocate and prioritize groups such as scholarship holders, partner program students, and applicants with disabilities, leading to inefficiencies and potential misallocations.
+
 Project Goal: Deliver a data-driven platform that shortens processing times, improves allocation fairness for priority groups (e.g. scholarship recipients, partners) and provides staff with a transparent, real-time monitoring dashboard. 
 
 My Responsibility
-- Led a five-member team to execute full ETL on over 39 000 UNSW accommodation records (2022–2025).  
+- Led a five-member team to execute full ETL on over 39k UNSW accommodation records (2022–2025).  
 - Cleansed and standardised data using Python & pandas.  
 - Created new DAX measures to calculate processing time, reply time and availability.  
 - Built interactive visuals and pages in Power BI covering processing time, room‐type preferences, applicant segmentation and real-time availability. 
